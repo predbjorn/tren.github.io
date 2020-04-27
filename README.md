@@ -1,4 +1,4 @@
-# tren.github.io
+# Privacy policy
 
 Vi er opptatt av å ivareta ditt personvern. Det er dine data, og du er sjefen! Du skal derfor føle deg trygg på at vi behandler dine personopplysninger på en sikker måte. All behandling av personopplysninger skjer i samsvar med norsk lov.
 Personopplysninger er informasjon som kan knyttes til deg som person, for eksempel navn, bosted, telefonnummer, e-postadresse, IP-adresse.
